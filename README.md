@@ -30,12 +30,13 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 https://medium.com/codingthesmartway-com-blog/creating-angular-projects-with-angular-cli-e32b2cb486da
 https://alligator.io/angular/ng-bootstrap/
 
-
 ## DB.Json
 https://www.sitepoint.com/angular-rxjs-create-api-service-rest-backend/
 
 ## Paid Training
 https://app.pluralsight.com/player?course=angular-material&author=ajden-towfeek&name=5bb3dd44-f69c-48ed-a7b1-91659cb530c2&clip=1&mode=live
+
+https://github.com/ajtowf/angularmaterial/tree/master/src
 
 https://www.safaribooksonline.com/library/view/building-modern-web/9781785880728/5ea1ad80-eb8a-4711-904f-1d8a84e8d260.xhtml
 
@@ -55,14 +56,17 @@ https://www.jvandemo.com/simple-metaphor-to-understand-and-remember-how-token-ba
 
 https://angular.io/tutorial/toh-pt5
 
-
 ## NPM stuff
 https://blog.hellojs.org/the-new-npm-audit-with-npm-6-eeed7664e28f
 https://www.npmjs.com/package/npm-check
-
 
 ## Material
 https://material.angular.io/guide/getting-started
 https://material.angular.io/guide/theming
 https://medium.com/codingthesmartway-com-blog/angular-material-and-angular-6-material-design-for-angular-6b1a3ee476f0
+
+Using ng add @angular/material configures everything vs having to load material, cdk, browser module, and setting up of
+initial theme
+
+https://medium.com/@DenysVuika/material-icons-with-angular-cli-projects-b11bbace0425
 
