@@ -68,5 +68,11 @@ https://medium.com/codingthesmartway-com-blog/angular-material-and-angular-6-mat
 Using ng add @angular/material configures everything vs having to load material, cdk, browser module, and setting up of
 initial theme
 
+## Material Icons
 https://medium.com/@DenysVuika/material-icons-with-angular-cli-projects-b11bbace0425
+https://theinfogrid.com/tech/developers/angular/material-icons-angular-5/
 
+## Angular 6 and .NET Core
+https://dzone.com/articles/create-an-application-with-angular-6-and-net-core
+
+http://jasonwatmore.com/post/2018/06/26/aspnet-core-21-simple-api-for-authentication-registration-and-user-management
