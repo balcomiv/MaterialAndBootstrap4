@@ -68,6 +68,11 @@ https://medium.com/codingthesmartway-com-blog/angular-material-and-angular-6-mat
 Using ng add @angular/material configures everything vs having to load material, cdk, browser module, and setting up of
 initial theme
 
+https://www.devglan.com/angular/material-sidenav-example
+https://www.devglan.com/angular/angular-hide-sidenav-login-page
+https://www.devglan.com/angular/angular-data-table-example
+
+
 ## Material Icons
 https://medium.com/@DenysVuika/material-icons-with-angular-cli-projects-b11bbace0425
 https://theinfogrid.com/tech/developers/angular/material-icons-angular-5/
@@ -76,3 +81,6 @@ https://theinfogrid.com/tech/developers/angular/material-icons-angular-5/
 https://dzone.com/articles/create-an-application-with-angular-6-and-net-core
 
 http://jasonwatmore.com/post/2018/06/26/aspnet-core-21-simple-api-for-authentication-registration-and-user-management
+
+## Flex
+https://tburleson-layouts-demos.firebaseapp.com/#/responsive
