@@ -72,6 +72,13 @@ https://www.devglan.com/angular/material-sidenav-example
 https://www.devglan.com/angular/angular-hide-sidenav-login-page
 https://www.devglan.com/angular/angular-data-table-example
 
+https://auth0.com/blog/creating-beautiful-apps-with-angular-material/
+
+https://blog.angularindepth.com/total-guide-to-dynamic-angular-animations-that-can-be-toggled-at-runtime-be5bb6778a0a
+
+## Material Login
+https://loiane.com/2017/08/angular-hide-navbar-login-page/
+
 
 ## Material Icons
 https://medium.com/@DenysVuika/material-icons-with-angular-cli-projects-b11bbace0425
