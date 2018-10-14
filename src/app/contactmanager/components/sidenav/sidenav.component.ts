@@ -1,4 +1,7 @@
 import { Component, OnInit } from '@angular/core';
+import { UserService } from '../../services/user.service';
+import { Observable } from 'rxjs';
+import { User } from '../../models/user';
 
 @Component({
   selector: 'app-sidenav',
@@ -8,10 +11,17 @@ import { Component, OnInit } from '@angular/core';
 export class SidenavComponent implements OnInit {
   events: string[] = [];
   opened: boolean;
+
+  users: Observable<User[]>;
   
-  constructor() { }
+  constructor(private userService: UserService) { }
 
   ngOnInit() {
+    this.users = this.userService.users;
+    this.userService.loadAll();
+
+    //  Testing Only (remove when finished)
+    this.users.subscribe(data => console.log(data));
   }
 
 }
